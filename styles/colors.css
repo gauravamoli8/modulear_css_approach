@@ -1,0 +1,15 @@
+:root {
+  --theme-primary-color: #f9f9f9;
+  --theme-secondary-color: #ff0000;
+  --theme-tertiary-color: #000000;
+  --theme-quaternary-color: #ffffff;
+}
+
+.theme-bg-primary {
+  background-color: var(--theme-primary-color);
+}
+
+.form-control {
+  outline: none !important;
+  border: 1px solid var(--theme-secondary-color) !important;
+}

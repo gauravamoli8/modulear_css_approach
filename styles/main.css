@@ -1,0 +1,10 @@
+@import url("./colors.css");
+@import url("./typography.css");
+
+/* Home page stylings */
+
+.service-section {
+  background: var(--theme-primary-color);
+}
+
+
